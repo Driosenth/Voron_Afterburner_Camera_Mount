@@ -11,7 +11,7 @@ An Adafruit ADXL345 can be attached to a Beam across the supports.
 ![alt text](https://github.com/Driosenth/Voron_Afterburner_Camera_Mount/blob/main/8mm_Underside.jpg?raw=true)
 
 
-Depending on the camera module, focal distance and brightness may be quite poor. Choose a camera module that appropriate to your lighting situation.
+Depending on the camera module, focal distance and brightness may be quite poor. Choose a camera module that is appropriate to your printer lighting situation.
 
 ![alt text](https://github.com/Driosenth/Voron_Afterburner_Camera_Mount/blob/main/8mm_Nozzle_Cam.png?raw=true)
 
