@@ -1,5 +1,5 @@
 # Voron_Afterburner_Camera_Mount
-Simple modification to the Voron Afterburner extruder to be able to mount a 1-1/2" square camera module
+Simple modification to the Voron Afterburner extruder to mount a 1-1/2" square camera module.
 
 4X M3 heatset inserts were added to the Hotend Fan Mount.
 Two symetrical supports attach to the modified Hotend Fan Mount.
